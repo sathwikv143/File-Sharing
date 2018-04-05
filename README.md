@@ -1,9 +1,9 @@
 # File-Sharing
 ---
 ## ADD DataBase `simple_chat`
-Table
-  *users
+Tables
+  * users
 ---
 Coloumns
-  *uname
-  *ipAddr
+  * uname
+  * ipAddr
