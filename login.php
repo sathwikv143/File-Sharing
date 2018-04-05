@@ -3,9 +3,9 @@
 session_start();
 
 // DB Connection
-$server = 'localhost';
-$username = 'root';
-$password = 'mohan';
+$server = ''; // add db server name
+$username = ''; // add db username
+$password = ''; // add db password
 $database = 'simple_chat';
 $connect = new mysqli($server, $username, $password, $database);
 
